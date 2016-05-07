@@ -1,3 +1,7 @@
+name: Maciej Łukaszuk cello
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  rhythmicContrast: 0
   brandColors:
     - '#040404'
     - '#3F3F3F'
     - '#676767'
     - '#DFDFDF'
     - '#A3A3A3'
+  brandStrength: 1
   lightness: 0
-layout_spectrum: 0.4489362
-name: 'Maciej Łukaszuk '
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
