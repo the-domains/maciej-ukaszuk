@@ -1,14 +1,26 @@
-layout_spectrum: 0.3425532
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
   saturation: 0
-  lightness: 0
   brandStrength: 1
+  rhythmicContrast: 0
   brandColors:
     - '#040404'
     - '#3F3F3F'
     - '#676767'
     - '#DFDFDF'
     - '#A3A3A3'
-  rhythmicContrast: 0
-typography_spectrum: 1
+  lightness: 0
+layout_spectrum: 0.4489362
 name: 'Maciej Łukaszuk '
