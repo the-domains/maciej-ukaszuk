@@ -1,0 +1,14 @@
+layout_spectrum: 0.5702128
+color:
+  saturation: 0
+  lightness: 0
+  brandStrength: 1
+  brandColors:
+    - '#040404'
+    - '#3F3F3F'
+    - '#676767'
+    - '#DFDFDF'
+    - '#A3A3A3'
+  rhythmicContrast: 0
+typography_spectrum: 0.606383
+name: 'Maciej Łukaszuk '
