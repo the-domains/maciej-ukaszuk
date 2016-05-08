@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Maciej Łukaszuk cello]]></title>
-        <description><![CDATA[Maciej Łukaszuk cello]]></description>
+        <title><![CDATA[macello.pl]]></title>
+        <description><![CDATA[macello.pl]]></description>
         <link>https://thegrid.ai/maciej-ukaszuk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 10:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 10:44:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maciej-ukaszuk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maciej Łukaszuk]]></title>
+            <description><![CDATA[<article><h1>Maciej Łukaszuk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1fcae81-2cf8-4144-aa4a-4d24ab94467a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maciej-ukaszuk/maciej-lukaszuk/index.html</link>
+            <guid isPermaLink="false">ebe76067-eee9-4d91-ab27-17688d067bb7</guid>
+            <pubDate>Sun, 08 May 2016 10:43:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Joseph Bodin de Boismortier - Sonata II op. 50, cz. III Largo]]></title>
             <description><![CDATA[<article><h1>Joseph Bodin de Boismortier - Sonata II op. 50, cz. III Largo</h1><p>Maciej Łukaszuk - wiolonczela Lilianna Stawarz - pozytyw Tomasz Pokrzywiński - wiolonczela</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df4ebbb02d974693246df21c19f423d69e91820.jpg"></article>]]></description>
             <link>https://youtu.be/v9np9wIMDjM</link>
             <guid isPermaLink="false">387ef9b7-e18f-4e16-ac22-75c081c0851c</guid>
             <pubDate>Sun, 08 May 2016 10:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maciej Łukaszuk]]></title>
-            <description><![CDATA[<article><h1>Maciej Łukaszuk</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1fcae81-2cf8-4144-aa4a-4d24ab94467a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maciej-ukaszuk/maciej-lukaszuk/index.html</link>
-            <guid isPermaLink="false">ebe76067-eee9-4d91-ab27-17688d067bb7</guid>
-            <pubDate>Sun, 08 May 2016 10:31:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
